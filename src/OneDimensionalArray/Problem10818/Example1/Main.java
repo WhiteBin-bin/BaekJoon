@@ -1,4 +1,4 @@
-package OneDimensionalArray.Problem10818;
+package OneDimensionalArray.Problem10818.Example1;
 import java.util.Scanner;
 import java.util.Arrays;
 public class Main {
